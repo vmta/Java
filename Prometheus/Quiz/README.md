@@ -10,5 +10,7 @@ Set of quizes.
   - [ ] Quiz
 - [ ] Week 3
   - [ ] Quiz
+- [ ] Week 4
+  - [ ] Quiz
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.
