@@ -4,9 +4,11 @@ Set of educational materials.
 ## [PROMETHEUS] (https://edx.prometheus.org.ua/)
 [Course in Ukrainian on Java] (https://edx.prometheus.org.ua/courses/EPAM/JAVA101/)
 
-- [ ] Week 1
-  - [ ] Quiz
+- [x] Week 1
+  - [x] Quiz
 - [ ] Week 2
+  - [ ] Quiz
+- [ ] Week 3
   - [ ] Quiz
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.
