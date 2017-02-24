@@ -10,7 +10,7 @@ Set of practicing materials.
   - [x] 1. SquareRoot (2/2) 100%
   - [x] 2. MatrixPrint (2/2) 100%
   - [x] 3. ArraySort (2/2) 100%
-  - [ ] 4. (0/0)
+  - [x] 4. ShellSort (0/0)
   - [ ] 5. (0/2)
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.
