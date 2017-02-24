@@ -6,10 +6,10 @@ Set of practicing materials.
 
 - [x] Week 1
   - [x] No Tasks
-- [ ] Week 2 (4/8) 50%
+- [ ] Week 2 (6/8) 75%
   - [x] 1. SquareRoot (2/2) 100%
   - [x] 2. MatrixPrint (2/2) 100%
-  - [ ] 3. (0/2)
+  - [x] 3. ArraySort (2/2) 100%
   - [ ] 4. (0/0)
   - [ ] 5. (0/2)
 
