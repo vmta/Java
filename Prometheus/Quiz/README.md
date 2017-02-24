@@ -5,9 +5,9 @@ Set of quizes.
 [Course in Ukrainian on Java] (https://edx.prometheus.org.ua/courses/EPAM/JAVA101/)
 
 - [x] Week 1
-  - [x] Quiz (5/5)
+  - [x] Quiz (5/5) 100%
 - [x] Week 2
-  - [x] Quiz (5/5)
+  - [x] Quiz (5/5) 100%
 - [ ] Week 3
   - [ ] Quiz
 - [ ] Week 4
