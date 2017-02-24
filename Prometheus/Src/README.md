@@ -6,10 +6,11 @@ Set of practicing materials.
 
 - [x] Week 1
   - [x] No Tasks
-- [ ] Week 2 (2/8) 25%
+- [ ] Week 2 (4/8) 50%
   - [x] 1. SquareRoot (2/2) 100%
-  - [ ] 2. (0/2)
+  - [x] 2. MatrixPrint (2/2) 100%
   - [ ] 3. (0/2)
-  - [ ] 4. (0/2)
+  - [ ] 4. (0/0)
+  - [ ] 5. (0/2)
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.
