@@ -12,5 +12,17 @@ Set of practicing materials.
   - [x] 3. ArraySort (2/2) 100%
   - [x] 4. ShellSort (0/0)
   - [x] 5. BinarySearch (2/2) 100%
+- [ ] Week 3
+  - [ ] No Tasks
+- [ ] Week 4
+  - [ ] No Tasks
+- [ ] Week 5
+  - [ ] No Tasks
+- [ ] Week 6
+  - [ ] No Tasks
+- [ ] Week 7
+  - [ ] No Tasks
+- [ ] Week 8
+  - [ ] No Tasks
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.

@@ -1,5 +1,5 @@
 # Java
-Set of quizes.
+Set of quizzes.
 
 ## [PROMETHEUS] (https://edx.prometheus.org.ua/)
 [Course in Ukrainian on Java] (https://edx.prometheus.org.ua/courses/EPAM/JAVA101/)
@@ -13,6 +13,12 @@ Set of quizes.
 - [ ] Week 4
   - [ ] Quiz
 - [ ] Week 5
+  - [ ] Quiz
+- [ ] Week 6
+  - [ ] Quiz
+- [ ] Week 7
+  - [ ] Quiz
+- [ ] Week 8
   - [ ] Quiz
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.
