@@ -10,8 +10,8 @@ Set of quizzes.
   - [x] Quiz (5/5) 100%
 - [x] Week 3
   - [x] Quiz (5/5) 100%
-- [ ] Week 4
-  - [ ] Quiz
+- [x] Week 4
+  - [x] Quiz (5/5) 100%
 - [ ] Week 5
   - [ ] Quiz
 - [ ] Week 6
