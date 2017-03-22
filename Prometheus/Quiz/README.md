@@ -12,8 +12,8 @@ Set of quizzes.
   - [x] Quiz (5/5) 100%
 - [x] Week 4
   - [x] Quiz (5/5) 100%
-- [ ] Week 5
-  - [ ] Quiz
+- [x] Week 5
+  - [x] Quiz (6/6) 100%
 - [ ] Week 6
   - [ ] Quiz
 - [ ] Week 7
